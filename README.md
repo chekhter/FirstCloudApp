@@ -6,4 +6,4 @@ Responds with Hello World to the GET '/' request, does pretty much nothing else.
 
 ## Installation
 
-Go to the Root directory and execute `npm install`. Upload the app with `cf push` afterwards
+Go to the `app` directory and execute `npm install`. Return to root and upload the app with `cf push` afterwards
