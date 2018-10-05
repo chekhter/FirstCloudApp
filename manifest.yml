@@ -1,0 +1,8 @@
+---
+applications:
+- name: MyFirstApp
+  routes:
+  - route: kcfirstapp.cfapps.sap.hana.ondemand.com
+  path: ./app # the path to application files
+  memory: 64m
+  disk_quota: 128m
